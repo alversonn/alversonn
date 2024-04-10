@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am passionate about the field of data.
 
 * ✉️  You can contact me at [alifabdulhakim.ah@gmail.com](mailto:alifabdulhakim.ah@gmail.com)
-* 🧠  I'm learning R Programming, Python, SQL, Tableau.
+* 🧠  I'm currently learning R Programming, Python, SQL, Tableau.
 * 🤝  I'm open to collaborating on Data Projects!
 * ⚡  I have a cat named Cio
 
