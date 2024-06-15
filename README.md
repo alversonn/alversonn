@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alif</h1>
 <h3 align="center">Just a random dude who's vibing with data</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/74/34/57/743457785e7543fd62c51e59dcf853d9.gif">
 
 - 🌱 I’m currently learning **Data Analyst and Engineering stuff**
 
